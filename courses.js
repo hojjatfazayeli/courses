@@ -622,3 +622,18 @@ COURSES[1].files.push({
   downloadUrl: "https://mega.nz/file/L6wyyK6A#HE7GB63tzx4BNgMVygn6nkio7AvSnLCaRhw-DdTQxM8"
 },
 );
+
+COURSES[4].videoSessions.push(
+  {
+        title: "Course Introduction & Complexity Analysis",
+        description: "Course overview, grading policy, and an introduction to time and space complexity (Big-O notation).",
+        watchUrl: "https://mega.nz/embed/biQmjZ5Z#5yPj5UVTIquIzdjOCDAeTenLUJFr1FRPkogdSoPDcO8",
+        downloadUrl: "https://mega.nz/file/biQmjZ5Z#5yPj5UVTIquIzdjOCDAeTenLUJFr1FRPkogdSoPDcO8"
+      },
+    {
+        title: "Basic concepts and asymptotic symbols in algorithm design",
+        description: "An examination of the reasons for using algorithm design to solve problems and the concept of asymptotic notation in calculating algorithmic complexity.",
+        watchUrl: "https://mega.nz/embed/OnpkXaSB#WATXvW0D_xi3_77-y1rQRkoGLjsUuTFH5DUty92Zd-E",
+        downloadUrl: "https://mega.nz/file/OnpkXaSB#WATXvW0D_xi3_77-y1rQRkoGLjsUuTFH5DUty92Zd-E"
+      },
+  );
