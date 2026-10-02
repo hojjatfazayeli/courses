@@ -637,3 +637,24 @@ COURSES[4].videoSessions.push(
         downloadUrl: "https://mega.nz/file/OnpkXaSB#WATXvW0D_xi3_77-y1rQRkoGLjsUuTFH5DUty92Zd-E"
       },
   );
+
+COURSES[5].videoSessions.push(
+  {
+        title: "Review of Concepts: Fundamentals of Computer Science and Programming – Part 1",
+        description: "In this section, we will thoroughly explore fundamental computer concepts, as well as the concepts of variable types and the structure of conditional statements.",
+        watchUrl: "https://mega.nz/embed/PjgBgSCR#tx2CI573Zl3adEBP6hI5yW_Rpz_M1XuVTXQLZ_HKk0w",
+        downloadUrl: "https://mega.nz/file/PjgBgSCR#tx2CI573Zl3adEBP6hI5yW_Rpz_M1XuVTXQLZ_HKk0w"
+      },
+    {
+        title: "Review of Concepts: Fundamentals of Computer Science and Programming – Part 2",
+        description: "In this section, we will thoroughly explore the concepts and structures of arrays, how to use arrays, and the structure of functions in programming.",
+        watchUrl: "https://mega.nz/embed/m3w3jA5S#6PGag36d3R8rOfxgSw3Y9AL0fMfMP-1-KNq1ZdabRkU",
+        downloadUrl: "https://mega.nz/file/m3w3jA5S#6PGag36d3R8rOfxgSw3Y9AL0fMfMP-1-KNq1ZdabRkU"
+      },
+      {
+        title: "Review of Concepts: Fundamentals of Computer Science and Programming – 4051",
+        description: "In this section, we will thoroughly explore the concepts and structures of variable types and arrays, how to use arrays, and the structure of functions in programming and conditional statements.",
+        watchUrl: "https://mega.nz/embed/WuJHhLZJ#6bDHJtSolGpfdCPz9JwYKA5f2b27e6j0HLueNlfrRFc",
+        downloadUrl: "https://mega.nz/file/WuJHhLZJ#6bDHJtSolGpfdCPz9JwYKA5f2b27e6j0HLueNlfrRFc"
+      },
+  );
