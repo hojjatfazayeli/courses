@@ -636,6 +636,12 @@ COURSES[4].videoSessions.push(
         watchUrl: "https://mega.nz/embed/OnpkXaSB#WATXvW0D_xi3_77-y1rQRkoGLjsUuTFH5DUty92Zd-E",
         downloadUrl: "https://mega.nz/file/OnpkXaSB#WATXvW0D_xi3_77-y1rQRkoGLjsUuTFH5DUty92Zd-E"
       },
+      {
+        title: "Comparing the Computational Complexity Analysis of Computer Algorithms",
+        description: "In this section, we compare the concepts of Big-O and Big-Omega within the context of analyzing the computational complexity of software algorithms and examine algorithm optimality.",
+        watchUrl: "https://mega.nz/embed/yrYEVDoA#w8RaZGf8FGoRCWFpU-oYqkEonK6JxWDDlUCtllf4fGQ",
+        downloadUrl: "https://mega.nz/file/yrYEVDoA#w8RaZGf8FGoRCWFpU-oYqkEonK6JxWDDlUCtllf4fGQ"
+      },
   );
 
 COURSES[5].videoSessions.push(
