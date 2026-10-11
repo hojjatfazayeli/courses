@@ -642,6 +642,18 @@ COURSES[4].videoSessions.push(
         watchUrl: "https://mega.nz/embed/yrYEVDoA#w8RaZGf8FGoRCWFpU-oYqkEonK6JxWDDlUCtllf4fGQ",
         downloadUrl: "https://mega.nz/file/yrYEVDoA#w8RaZGf8FGoRCWFpU-oYqkEonK6JxWDDlUCtllf4fGQ"
       },
+        {
+        title: "Greedy Algorithms – Part 1",
+        description: "In this section, we will explore the fundamental concept of greedy algorithms and their application in finding the optimal path. We will also examine the mechanism of the Huffman coding algorithm as an example of a greedy algorithm.",
+        watchUrl: "https://mega.nz/embed/r6oWFIbB#JCN7ut5Jo1fuivM_o2L_aLzS5gM2o5gLMPMe6EWEvGQ",
+        downloadUrl: "https://mega.nz/file/r6oWFIbB#JCN7ut5Jo1fuivM_o2L_aLzS5gM2o5gLMPMe6EWEvGQ"
+      },
+          {
+        title: "Greedy Algorithms – Part 2",
+        description: "In this section, we will explore the concept of Minimum Spanning Trees. We will also examine the mechanisms of Kruskal's algorithm and Prim's algorithm—both of which fall under the Minimum Spanning Tree framework—for finding the optimal, lowest-cost path within a connected graph.",
+        watchUrl: "https://mega.nz/embed/PuBSCAbC#nDFnGJ4izLbR2WzQjdS2xZfCQHtYqkjbXnEx9WxOs1Q",
+        downloadUrl: "https://mega.nz/file/PuBSCAbC#nDFnGJ4izLbR2WzQjdS2xZfCQHtYqkjbXnEx9WxOs1Q"
+      },
   );
 
 COURSES[5].videoSessions.push(
