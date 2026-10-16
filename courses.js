@@ -676,3 +676,13 @@ COURSES[5].videoSessions.push(
         downloadUrl: "https://mega.nz/file/WuJHhLZJ#6bDHJtSolGpfdCPz9JwYKA5f2b27e6j0HLueNlfrRFc"
       },
   );
+COURSES[7].tas.push({
+  photo: "1783262429755.png",
+  name: "Mahdieh Karizi",
+  field: "M.Sc. Student, Software Engineering",
+  email: "MahdieKarizi@gmail.com",
+  term: "Fall 2026",
+  linkedin: "www.linkedin.com/in/mahdieh-karizi",
+  resumeUrl: "https://mega.nz/file/v3J0DIga#WXPRpUv63OJbzKTFfvKaWDZa2EtGXY4bYTfyiF5VBf8"
+}
+);
