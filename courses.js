@@ -687,7 +687,7 @@ COURSES[7].tas.push({
 });
 
 
-COURSES[0].exerciseSessions.push({
+COURSES[7].exerciseSessions.push({
   title: "Introduction to Jira Software and Its Applications",
   description: "In this section, you will become familiar with the fundamental concepts of the Jira software.",
   watchUrl: "https://mega.nz/embed/Xvp3VARB#InPU5YrLzhFrArRYaN9fjN41tBYPMmtt6GW1EPXT_C0",
