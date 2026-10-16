@@ -682,7 +682,22 @@ COURSES[7].tas.push({
   field: "M.Sc. Student, Software Engineering",
   email: "MahdieKarizi@gmail.com",
   term: "Fall 2026",
-  linkedin: "www.linkedin.com/in/mahdieh-karizi",
+  linkedin: "https://www.linkedin.com/in/mahdieh-karizi/",
   resumeUrl: "https://mega.nz/file/v3J0DIga#WXPRpUv63OJbzKTFfvKaWDZa2EtGXY4bYTfyiF5VBf8"
-}
+});
+
+
+COURSES[0].exerciseSessions.push({
+  title: "Introduction to Jira Software and Its Applications",
+  description: "In this section, you will become familiar with the fundamental concepts of the Jira software.",
+  watchUrl: "https://mega.nz/embed/Xvp3VARB#InPU5YrLzhFrArRYaN9fjN41tBYPMmtt6GW1EPXT_C0",
+  downloadUrl: "https://mega.nz/file/Xvp3VARB#InPU5YrLzhFrArRYaN9fjN41tBYPMmtt6GW1EPXT_C0"
+},
+{
+  title: "Introduction to Using Agile and Scrum in Jira Software",
+  description: "In this section, you will first become familiar with the concepts of Scrum and Agile, and learn about the three pillars of Agile within Jira.",
+  watchUrl: "https://mega.nz/embed/2roxiboJ#rlaX9b850A77Xy4Ry29MU04zrjCcqfW7dDnwGl8pjQE",
+  downloadUrl: "https://mega.nz/file/2roxiboJ#rlaX9b850A77Xy4Ry29MU04zrjCcqfW7dDnwGl8pjQE"
+},
+
 );
