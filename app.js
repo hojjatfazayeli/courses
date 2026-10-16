@@ -236,7 +236,7 @@
   const SECTIONS = [
     { key: "tas", label: "Teaching Assistants" },
     { key: "videos", label: "Lecture Videos" },
-    { key: "exercises", label: "Problem-Solving Sessions" },
+    { key: "exercises", label: "TA and Practice Sessions" },
     { key: "files", label: "Course Files" }
   ];
 
