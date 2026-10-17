@@ -675,7 +675,40 @@ COURSES[5].videoSessions.push(
         watchUrl: "https://mega.nz/embed/WuJHhLZJ#6bDHJtSolGpfdCPz9JwYKA5f2b27e6j0HLueNlfrRFc",
         downloadUrl: "https://mega.nz/file/WuJHhLZJ#6bDHJtSolGpfdCPz9JwYKA5f2b27e6j0HLueNlfrRFc"
       },
+        {
+        title: "Store Management System Scenario Programming- Part1",
+        description: "In this section, we will explain and analyze the development scenario for a store management system, and write the initial code for the application.",
+        watchUrl: "https://mega.nz/embed/HywlARaB#75OEUSbxXGoePudu7RM-VG564oHHJU-3uoKXIFkAX84",
+        downloadUrl: "https://mega.nz/file/HywlARaB#75OEUSbxXGoePudu7RM-VG564oHHJU-3uoKXIFkAX84"
+      },
+       {
+        title: "Store Management System Scenario Programming- Part2",
+        description: "In this section, we will implement the function for registering products in the store; the analysis will also be conducted concurrently with the coding process.",
+        watchUrl: "https://mega.nz/embed/i3Bn3biI#ONr_ioeVf5H9k3-WieRrHCefgE6snqTOYCOicloKnkw",
+        downloadUrl: "https://mega.nz/file/i3Bn3biI#ONr_ioeVf5H9k3-WieRrHCefgE6snqTOYCOicloKnkw"
+      },
+         {
+        title: "Store Management System Scenario Programming- Part3",
+        description: "In this section, we will program the functions for generating sales reports and recording product sales, as well as a specialized function for processing sales directly from inventory. We will also examine how these functions integrate with other parts of the application.",
+        watchUrl: "https://mega.nz/embed/fnJDCZYB#nkqV8qlzJT8oV3PRhu4dZr66K_242MenwkYYTYa_bYE",
+        downloadUrl: "https://mega.nz/file/fnJDCZYB#nkqV8qlzJT8oV3PRhu4dZr66K_242MenwkYYTYa_bYE"
+      },
+           {
+        title: "Store Management System Scenario Programming- Part4",
+        description: "In this section, we will implement the final stages of the program: identifying the best-selling product and calculating the revenue generated from sales.",
+        watchUrl: "https://mega.nz/embed/32ZBjCzA#dOAnnsLeF5CsL74sbu93RnMPpe7w3MjxDJItiwu7MGs",
+        downloadUrl: "https://mega.nz/file/32ZBjCzA#dOAnnsLeF5CsL74sbu93RnMPpe7w3MjxDJItiwu7MGs"
+      },
   );
+
+COURSES[5].files.push({
+  title: " Source Code - Store Management System ",
+  description: "Comprehensive Study Guide on the Theory of Languages ​​and Machines",
+  downloadUrl: "https://mega.nz/file/ivhQSZSQ#gk5Tf9Z0hJ2ohMpWbC1J2RoX6MCZ0ZFEVq6perbjth8"
+},
+);
+
+
 COURSES[7].tas.push({
   photo: "1783262429755.png",
   name: "Mahdieh Karizi",
