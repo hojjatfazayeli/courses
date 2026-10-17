@@ -703,8 +703,8 @@ COURSES[5].videoSessions.push(
 
 COURSES[5].files.push({
   title: " Source Code - Store Management System ",
-  description: "Comprehensive Study Guide on the Theory of Languages ​​and Machines",
-  downloadUrl: "https://mega.nz/file/ivhQSZSQ#gk5Tf9Z0hJ2ohMpWbC1J2RoX6MCZ0ZFEVq6perbjth8"
+  description: "This source code corresponds to sessions 4 through 7 of this course.",
+  downloadUrl: "https://mega.nz/file/jnBCFaIK#jZQ0Tlgz6oZA-mpohJZLLyEJ3ko4cVVscds5TqR6EsQ"
 },
 );
 
