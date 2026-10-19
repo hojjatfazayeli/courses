@@ -648,11 +648,17 @@ COURSES[4].videoSessions.push(
         watchUrl: "https://mega.nz/embed/r6oWFIbB#JCN7ut5Jo1fuivM_o2L_aLzS5gM2o5gLMPMe6EWEvGQ",
         downloadUrl: "https://mega.nz/file/r6oWFIbB#JCN7ut5Jo1fuivM_o2L_aLzS5gM2o5gLMPMe6EWEvGQ"
       },
-          {
+      {
         title: "Greedy Algorithms – Part 2",
         description: "In this section, we will explore the concept of Minimum Spanning Trees. We will also examine the mechanisms of Kruskal's algorithm and Prim's algorithm—both of which fall under the Minimum Spanning Tree framework—for finding the optimal, lowest-cost path within a connected graph.",
         watchUrl: "https://mega.nz/embed/PuBSCAbC#nDFnGJ4izLbR2WzQjdS2xZfCQHtYqkjbXnEx9WxOs1Q",
         downloadUrl: "https://mega.nz/file/PuBSCAbC#nDFnGJ4izLbR2WzQjdS2xZfCQHtYqkjbXnEx9WxOs1Q"
+      },
+      {
+        title: "Greedy Algorithms – Part 3",
+        description: "In this section, we will examine the knapsack algorithm and various types of scheduling problems, and explore their application in CPU buffers to optimize process execution.",
+        watchUrl: "https://mega.nz/embed/SmwChCQD#kjdzH4kRMeWB4upg8c8blkvfa-Uwav7usIpZYwHhYd8",
+        downloadUrl: "https://mega.nz/file/SmwChCQD#kjdzH4kRMeWB4upg8c8blkvfa-Uwav7usIpZYwHhYd8"
       },
   );
 
