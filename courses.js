@@ -660,6 +660,12 @@ COURSES[4].videoSessions.push(
         watchUrl: "https://mega.nz/embed/SmwChCQD#kjdzH4kRMeWB4upg8c8blkvfa-Uwav7usIpZYwHhYd8",
         downloadUrl: "https://mega.nz/file/SmwChCQD#kjdzH4kRMeWB4upg8c8blkvfa-Uwav7usIpZYwHhYd8"
       },
+        {
+        title: "Graph Algorithms – Part 1",
+        description: "In this session, we will introduce the concept of graphs in algorithm design, covering adjacency lists and adjacency matrices as methods for representing graphs. We will also learn about two search techniques—Breadth-First Search (BFS) and Depth-First Search (DFS)for traversing the nodes of a graph.",
+        watchUrl: "https://mega.nz/embed/m2wRDRQR#acD4ciiENNVjacMKJVMLoPoCLVludjTeSHDXTFdFQGs",
+        downloadUrl: "https://mega.nz/file/m2wRDRQR#acD4ciiENNVjacMKJVMLoPoCLVludjTeSHDXTFdFQGs"
+      },
   );
 
 COURSES[5].videoSessions.push(
