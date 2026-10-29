@@ -745,9 +745,15 @@ COURSES[7].exerciseSessions.push({
   downloadUrl: "https://mega.nz/file/2roxiboJ#rlaX9b850A77Xy4Ry29MU04zrjCcqfW7dDnwGl8pjQE"
 },
 {
-  title: "Practical Work with Jira Software",
+  title: "Practical Work with Jira Software - Part1",
   description: "In this section, we will first familiarize ourselves with the core structure of Jira. Then, we will access the software and explore its various components through a practical example.",
   watchUrl: "https://mega.nz/embed/inQBkJaZ#yhpnC-GLYHWC5GGYeTHcTip8zb8FZUeDPBZc4wyeREw",
   downloadUrl: "https://mega.nz/file/inQBkJaZ#yhpnC-GLYHWC5GGYeTHcTip8zb8FZUeDPBZc4wyeREw"
+},
+                                 {
+  title: "Practical Work with Jira Software - Part2",
+  description: "In this section, we will carry out the full, practical implementation of a sample project and configure the various aspects of project management within the Jira software.",
+  watchUrl: "https://mega.nz/embed/unBHmAiQ#HbOwSvORyxw1vn9Kzzyd4uimLfEz6bPY9hp2FI_GQV0",
+  downloadUrl: "https://mega.nz/file/unBHmAiQ#HbOwSvORyxw1vn9Kzzyd4uimLfEz6bPY9hp2FI_GQV0"
 },
 );
