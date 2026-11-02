@@ -666,6 +666,12 @@ COURSES[4].videoSessions.push(
         watchUrl: "https://mega.nz/embed/m2wRDRQR#acD4ciiENNVjacMKJVMLoPoCLVludjTeSHDXTFdFQGs",
         downloadUrl: "https://mega.nz/file/m2wRDRQR#acD4ciiENNVjacMKJVMLoPoCLVludjTeSHDXTFdFQGs"
       },
+          {
+        title: "Graph Algorithms – Part 2",
+        description: "In this session, we will examine Dijkstra's algorithm and its various implementation methods. We will also learn about strongly connected components, as well as the combination of DAG structures with DFS.",
+        watchUrl: "https://mega.nz/embed/Pm4HgSSJ#P_0F-lNqP_00cNgtvKAWS4PMEXtOfaxcgqRhPzTSQds",
+        downloadUrl: "https://mega.nz/file/Pm4HgSSJ#P_0F-lNqP_00cNgtvKAWS4PMEXtOfaxcgqRhPzTSQds"
+      },
   );
 
 COURSES[5].videoSessions.push(
