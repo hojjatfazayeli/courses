@@ -774,7 +774,7 @@ COURSES[9].videoSessions.push(
       },
       {
         title: "Design and implementation of sequence diagrams in Rational Rose software",
-        description: "Examining the concept of "sequence" regarding the execution order of processes within a software service; exploring the use of sequence diagrams to document the execution flow of steps within a software service; instruction on creating sequence diagrams based on the use cases that define a service; implementing the execution steps of a sequence diagram for a service within a subsystem; and introducing the concepts of class and stereotypes in the context of relationships between objects within a sequence.",
+        description: "Examining the concept of sequence regarding the execution order of processes within a software service; exploring the use of sequence diagrams to document the execution flow of steps within a software service; instruction on creating sequence diagrams based on the use cases that define a service; implementing the execution steps of a sequence diagram for a service within a subsystem; and introducing the concepts of class and stereotypes in the context of relationships between objects within a sequence.",
         watchUrl: "https://mega.nz/embed/7vZkkSbb#mcGsEStWs4Mpi73zH3b61X7ftakWO4y_Jt-BjQKrzyg",
         downloadUrl: "https://mega.nz/file/7vZkkSbb#mcGsEStWs4Mpi73zH3b61X7ftakWO4y_Jt-BjQKrzyg"
       },
