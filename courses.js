@@ -763,3 +763,37 @@ COURSES[7].exerciseSessions.push({
   downloadUrl: "https://mega.nz/file/unBHmAiQ#HbOwSvORyxw1vn9Kzzyd4uimLfEz6bPY9hp2FI_GQV0"
 },
 );
+
+
+COURSES[9].videoSessions.push(
+  {
+        title: "Design and implementation of use case diagrams in Rational Rose software",
+        description: "Reviewing the concept of UseCase and its application in a software project, reviewing the concept of Actor and its application in UseCase Diagram, configuring the UML of a software project in the Rational Rose program, teaching Diagram views in the Rational Rose environment, creating the first UseCase Diagram based on the relevant Sub System, how to work with Specifications in UseCase Diagram objects, and establishing communication between UseCase and",
+        watchUrl: "https://mega.nz/embed/jngHBBga#qiaCP0rV-74JNQqIONfm8fbEWMq2c3uTJjASNN4ReTA",
+        downloadUrl: "https://mega.nz/file/jngHBBga#qiaCP0rV-74JNQqIONfm8fbEWMq2c3uTJjASNN4ReTA"
+      },
+      {
+        title: "Design and implementation of sequence diagrams in Rational Rose software",
+        description: "Examining the concept of "sequence" regarding the execution order of processes within a software service; exploring the use of sequence diagrams to document the execution flow of steps within a software service; instruction on creating sequence diagrams based on the use cases that define a service; implementing the execution steps of a sequence diagram for a service within a subsystem; and introducing the concepts of class and stereotypes in the context of relationships between objects within a sequence.",
+        watchUrl: "https://mega.nz/embed/7vZkkSbb#mcGsEStWs4Mpi73zH3b61X7ftakWO4y_Jt-BjQKrzyg",
+        downloadUrl: "https://mega.nz/file/7vZkkSbb#mcGsEStWs4Mpi73zH3b61X7ftakWO4y_Jt-BjQKrzyg"
+      },
+        {
+        title: "Design and implementation of class diagrams in Rational Rose software - Part 1",
+        description: "Comprehensive tutorial on the Association relationship and its implementation in Class Diagrams using Rational Rose; comprehensive tutorial on the Dependency relationship and its implementation in Class Diagrams using Rational Rose; comprehensive tutorial on the Generalization relationship and its implementation in Class Diagrams using Rational Rose; comprehensive tutorial on the Aggregation relationship and its implementation in Class Diagrams using Rational Rose.",
+        watchUrl: "https://mega.nz/embed/ijpkhKAa#JePuyxA99fOTVdDXdHiqter27eZxgAR4J7ow__rsJLA",
+        downloadUrl: "https://mega.nz/file/ijpkhKAa#JePuyxA99fOTVdDXdHiqter27eZxgAR4J7ow__rsJLA"
+      },
+          {
+        title: "Design and implementation of class diagrams in Rational Rose software - Part 2",
+        description: "Comprehensive tutorial on the Association relationship and its implementation in Class Diagrams using Rational Rose; comprehensive tutorial on the Dependency relationship and its implementation in Class Diagrams using Rational Rose; comprehensive tutorial on the Generalization relationship and its implementation in Class Diagrams using Rational Rose; comprehensive tutorial on the Aggregation relationship and its implementation in Class Diagrams using Rational Rose.",
+        watchUrl: "https://mega.nz/embed/Tj4lXCAA#eFSbyHxXIyHEP07f_RIWkhPMuslaaPdPyZB7SHzQ3ms",
+        downloadUrl: "https://mega.nz/file/Tj4lXCAA#eFSbyHxXIyHEP07f_RIWkhPMuslaaPdPyZB7SHzQ3ms"
+      },
+            {
+        title: "Design and implementation of state diagrams in Rational Rose software",
+        description: "Comprehensive tutorial on the Association relationship and its implementation in Class Diagrams using Rational Rose; comprehensive tutorial on the Dependency relationship and its implementation in Class Diagrams using Rational Rose; comprehensive tutorial on the Generalization relationship and its implementation in Class Diagrams using Rational Rose; comprehensive tutorial on the Aggregation relationship and its implementation in Class Diagrams using Rational Rose.",
+        watchUrl: "https://mega.nz/embed/i7pGwKzR#3QanBhn-LVIGTZtyurlyTpiKloIsLAnhQbx9shl7nik",
+        downloadUrl: "https://mega.nz/file/i7pGwKzR#3QanBhn-LVIGTZtyurlyTpiKloIsLAnhQbx9shl7nik"
+      },
+  );
