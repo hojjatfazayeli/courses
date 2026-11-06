@@ -603,6 +603,17 @@ COURSES[0].files.push({
 },
 );
 
+COURSES[2].files.push({
+  title: " Booklet ",
+  description: "Logic Circuits Course Notes by Lecture Hojjat Fazayeli",
+  downloadUrl: "https://mega.nz/file/rvgiAKTY#l_qRGvd0J9iRo3sgkPwGCbfCOsT1GTFjWJlFCClEAKs"
+},
+{
+  title: " Practice Booklet ",
+  description: "Collection of Solutions for Logic Circuits Exercises",
+  downloadUrl: "https://mega.nz/file/WnAiTbBJ#NZrnJkl4swlWwTP-cp9aCTf6XaMbD5mUvdZjPSsmA4w"
+},
+);
 
 COURSES[1].tas.push({
   photo: "1787834036209.png",
