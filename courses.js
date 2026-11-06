@@ -259,6 +259,179 @@ COURSES[0].videoSessions.push(
 },
 );
 
+COURSES[2].videoSessions.push(
+  {
+        title: "Logic Circuits - Part 1",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/PrZ1RRCY#HKv6so_ePMNAZr5xMYPeGvnQoF9QnRVtHkBDkud7MyA",
+        downloadUrl: "https://mega.nz/file/PrZ1RRCY#HKv6so_ePMNAZr5xMYPeGvnQoF9QnRVtHkBDkud7MyA"
+      },
+  {
+        title: "Logic Circuits - Part 2",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/emebd/qipzRR5R#0KhHUHQIaY8hEsWmrPEQgYBfUHfskXXzLQa0jkpU4pM",
+        downloadUrl: "https://mega.nz/file/qipzRR5R#0KhHUHQIaY8hEsWmrPEQgYBfUHfskXXzLQa0jkpU4pM"
+      },
+    {
+        title: "Logic Circuits - Part 3",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/evRyXYpK#9ZL8naknVeBSIEvrBgwS7uuiCKzmLJQdpI2Kg7-5UNQ",
+        downloadUrl: "https://mega.nz/file/evRyXYpK#9ZL8naknVeBSIEvrBgwS7uuiCKzmLJQdpI2Kg7-5UNQ"
+      },
+      {
+        title: "Logic Circuits - Part 4",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/m2xhHSQK#D9nABqMPqXVPtwruEJbGbtEVhXz3lwu_nCAVoJTrhPE",
+        downloadUrl: "https://mega.nz/file/m2xhHSQK#D9nABqMPqXVPtwruEJbGbtEVhXz3lwu_nCAVoJTrhPE"
+      },
+        {
+        title: "Logic Circuits - Part 5",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/nyYnGABK#i7EAyqV5NuHWCwifOKM83Jnz3qDQ4XRWTEp6dfs5ICw",
+        downloadUrl: "https://mega.nz/file/nyYnGABK#i7EAyqV5NuHWCwifOKM83Jnz3qDQ4XRWTEp6dfs5ICw"
+      },
+          {
+        title: "Logic Circuits - Part 6",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/bjIU3QgT#5eOUbn2HqGqr7Q962C3dwWC4EcRGTqyCLgAOGgWthOM",
+        downloadUrl: "https://mega.nz/file/bjIU3QgT#5eOUbn2HqGqr7Q962C3dwWC4EcRGTqyCLgAOGgWthOM"
+      },
+            {
+        title: "Logic Circuits - Part 7",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/u7ZlgS6Q#iXstBYpEbItSXAVV2HZg7Git-zvZQ_nHLQRRd00klwE",
+        downloadUrl: "https://mega.nz/file/u7ZlgS6Q#iXstBYpEbItSXAVV2HZg7Git-zvZQ_nHLQRRd00klwE"
+      },
+              {
+        title: "Logic Circuits - Part 8",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/GvBWCCqZ#xj6gtiyJbIR-h8QFaCg_f9dvFatWxC7sFuDBJMDPwpY",
+        downloadUrl: "https://mega.nz/file/GvBWCCqZ#xj6gtiyJbIR-h8QFaCg_f9dvFatWxC7sFuDBJMDPwpY"
+      },
+                {
+        title: "Logic Circuits - Part 9",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/PjQymCaR#Zdp6klFq2zuhfVu6Q9-Zex0lqTd5x6HGoxZACxWd2BI",
+        downloadUrl: "https://mega.nz/file/PjQymCaR#Zdp6klFq2zuhfVu6Q9-Zex0lqTd5x6HGoxZACxWd2BI"
+      },
+                  {
+        title: "Logic Circuits - Part 10",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/WuY1DAoK#dTnqQPhzVov15KmIZ700V11zMQcQCDmDVcvtLPX8gnk",
+        downloadUrl: "https://mega.nz/file/WuY1DAoK#dTnqQPhzVov15KmIZ700V11zMQcQCDmDVcvtLPX8gnk"
+      },
+                    {
+        title: "Logic Circuits - Part 11",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/WuxhiYKK#prv5LNMvrvobxFkRB7MWJgG2oDmhu4xJ2paVlZ92ihs",
+        downloadUrl: "https://mega.nz/file/WuxhiYKK#prv5LNMvrvobxFkRB7MWJgG2oDmhu4xJ2paVlZ92ihs"
+      },
+                      {
+        title: "Logic Circuits - Part 12",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/LqwwlboR#Wa_vWH0r66ENvdtir_jgf0vmqeRkazszjM0DPursCLY",
+        downloadUrl: "https://mega.nz/file/LqwwlboR#Wa_vWH0r66ENvdtir_jgf0vmqeRkazszjM0DPursCLY"
+      },
+                        {
+        title: "Logic Circuits - Part 13",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/C6hlRD4C#UXSpsbXiB5c37HGlqSFx6e_2uzxk13CC3oteyDIOugw",
+        downloadUrl: "https://mega.nz/file/C6hlRD4C#UXSpsbXiB5c37HGlqSFx6e_2uzxk13CC3oteyDIOugw"
+      },
+                          {
+        title: "Logic Circuits - Part 14",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/nzA2WayL#Zd3AlPQQw64OfqwkCob4pzCGHujcVZP-vE2Up3A5b2o",
+        downloadUrl: "https://mega.nz/file/nzA2WayL#Zd3AlPQQw64OfqwkCob4pzCGHujcVZP-vE2Up3A5b2o"
+      },
+                            {
+        title: "Logic Circuits - Part 15",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/Wyph1bRA#idKjy_wWAfj51kgPaRzxbQy4Dj9Ri2PL-GbEB4pC16s",
+        downloadUrl: "https://mega.nz/file/Wyph1bRA#idKjy_wWAfj51kgPaRzxbQy4Dj9Ri2PL-GbEB4pC16s"
+      },
+                              {
+        title: "Logic Circuits - Part 16",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/qjohyYaZ#MWT1A_kVJYo04tb8AVShGMrv7bqPHIe_HzCetH_slaY",
+        downloadUrl: "https://mega.nz/file/qjohyYaZ#MWT1A_kVJYo04tb8AVShGMrv7bqPHIe_HzCetH_slaY"
+      },
+                                {
+        title: "Logic Circuits - Part 17",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/rzxm1RbS#0qas2rgUvlBLC6xYJi8nLl88QkIKl-92UNb7A12iWvo",
+        downloadUrl: "https://mega.nz/file/rzxm1RbS#0qas2rgUvlBLC6xYJi8nLl88QkIKl-92UNb7A12iWvo"
+      },
+                                  {
+        title: "Logic Circuits - Part 18",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/bzoj1CBT#ON8g4XuNVRvvARiRU5aLJ5TmewSWZbQXhNB3_r8Zz3Q",
+        downloadUrl: "https://mega.nz/file/bzoj1CBT#ON8g4XuNVRvvARiRU5aLJ5TmewSWZbQXhNB3_r8Zz3Q"
+      },
+                                    {
+        title: "Logic Circuits - Part 19",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/qyRHTZqJ#RttVJmA6SPHQ6iIyI2WHy9M9dUJj_Q6mPFjqcTTh1f0",
+        downloadUrl: "https://mega.nz/file/qyRHTZqJ#RttVJmA6SPHQ6iIyI2WHy9M9dUJj_Q6mPFjqcTTh1f0"
+      },
+                                      {
+        title: "Logic Circuits - Part 20",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/fnpETYDK#EQzSEJ7zPPjWyW94LL8SN8Sy6aCTOGykHkA511a_U2A",
+        downloadUrl: "https://mega.nz/file/fnpETYDK#EQzSEJ7zPPjWyW94LL8SN8Sy6aCTOGykHkA511a_U2A"
+      },
+                                        {
+        title: "Logic Circuits - Part 21",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/D6p1yIAa#4ol-3k8lG292wa_vrFxGOFaKca_CcgUu_c95qR-TAzY",
+        downloadUrl: "https://mega.nz/file/D6p1yIAa#4ol-3k8lG292wa_vrFxGOFaKca_CcgUu_c95qR-TAzY"
+      },
+                                          {
+        title: "Logic Circuits - Part 22",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/nzw0GIjI#vettLlDWufBxUhcN7_dn3AqdcA83Jq45bjKOAFexTIQ",
+        downloadUrl: "https://mega.nz/file/nzw0GIjI#vettLlDWufBxUhcN7_dn3AqdcA83Jq45bjKOAFexTIQ"
+      },
+                                            {
+        title: "Logic Circuits - Part 22",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/embed/b2hE2awa#ItQLh-nGKsvnEGFtuym3tbtuHE4Hq8dgyoif_q-y-Sc",
+        downloadUrl: "https://mega.nz/file/b2hE2awa#ItQLh-nGKsvnEGFtuym3tbtuHE4Hq8dgyoif_q-y-Sc"
+      },
+                                              {
+        title: "Logic Circuits - Part 23",
+        description: "The content for this section is currently being prepared and will be added soon.",
+        watchUrl: "https://mega.nz/file/DvRV0KTC#ac63ePDsnW4jy9bGaZXryofig9aYvvnsxJpDS3X8yEI",
+        downloadUrl: "https://mega.nz/file/DvRV0KTC#ac63ePDsnW4jy9bGaZXryofig9aYvvnsxJpDS3X8yEI"
+      },
+);
+
+COURSES[2].exerciseSessions.push({
+  title: "Logic Circuits - Practice 1",
+  description: "",
+  watchUrl: "https://mega.nz/embed/G3wXVTAS#bqUCyZlckBMEpOw5_g6XplxAD3a3OSz7-Kk1aWTgBac",
+  downloadUrl: "https://mega.nz/file/G3wXVTAS#bqUCyZlckBMEpOw5_g6XplxAD3a3OSz7-Kk1aWTgBac"
+},
+{
+  title: "Logic Circuits - Practice 2",
+  description: "",
+  watchUrl: "https://mega.nz/embed/y2BhgZpK#9NzOdtOu4XUZLgJN8IgeBxX3-X2HqLzlV9UQqUNAsok",
+  downloadUrl: "https://mega.nz/file/y2BhgZpK#9NzOdtOu4XUZLgJN8IgeBxX3-X2HqLzlV9UQqUNAsok"
+},
+                                 {
+  title: "Logic Circuits - Practice 3",
+  description: "",
+  watchUrl: "https://mega.nz/embed/ji5UGDAL#6oVRqAFnvVu-TIcRU4_Dapcuffx2-Tk0jkFUKFx9Lik",
+  downloadUrl: "https://mega.nz/file/ji5UGDAL#6oVRqAFnvVu-TIcRU4_Dapcuffx2-Tk0jkFUKFx9Lik"
+},
+                                                                  {
+  title: "Logic Circuits - Practice 4",
+  description: "",
+  watchUrl: "https://mega.nz/embed/vn5QWb4a#MREaOnfj4G3XPTm1qubEmujikTbNEEpw_suu_rMaD5Y",
+  downloadUrl: "https://mega.nz/file/vn5QWb4a#MREaOnfj4G3XPTm1qubEmujikTbNEEpw_suu_rMaD5Y"
+},
+);
+
 COURSES[0].exerciseSessions.push({
   title: "Practice 1",
   description: "",
