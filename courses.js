@@ -901,6 +901,18 @@ COURSES[5].videoSessions.push(
         watchUrl: "https://mega.nz/embed/32ZBjCzA#dOAnnsLeF5CsL74sbu93RnMPpe7w3MjxDJItiwu7MGs",
         downloadUrl: "https://mega.nz/file/32ZBjCzA#dOAnnsLeF5CsL74sbu93RnMPpe7w3MjxDJItiwu7MGs"
       },
+             {
+        title: "Object Oriented Programing - Part1",
+        description: "In this section, we will introduce the object-oriented structure and how to implement it using the C# programming language, illustrated with an example.",
+        watchUrl: "https://mega.nz/embed/CmB1VKLR#owy3yg0nmzfdB99Vm5KNxYytEAOS23EjBFGyhwCOvUI",
+        downloadUrl: "https://mega.nz/file/CmB1VKLR#owy3yg0nmzfdB99Vm5KNxYytEAOS23EjBFGyhwCOvUI"
+      },
+               {
+        title: "Object Oriented Programing - Part2",
+        description: "In this section, we will explore the use of an array of objects. We will also define several distinct classes, link them together through method calls, and enable the creation of multiple, unique objects based on user input.",
+        watchUrl: "https://mega.nz/embed/OnhgwQiA#sw1B7w3vUFNbaDzr1AV-UAcQlKeUVxuZZ11mwQEvA_A",
+        downloadUrl: "https://mega.nz/file/OnhgwQiA#sw1B7w3vUFNbaDzr1AV-UAcQlKeUVxuZZ11mwQEvA_A"
+      },
   );
 
 COURSES[5].files.push({
