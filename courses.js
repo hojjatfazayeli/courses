@@ -856,6 +856,12 @@ COURSES[4].videoSessions.push(
         watchUrl: "https://mega.nz/embed/Pm4HgSSJ#P_0F-lNqP_00cNgtvKAWS4PMEXtOfaxcgqRhPzTSQds",
         downloadUrl: "https://mega.nz/file/Pm4HgSSJ#P_0F-lNqP_00cNgtvKAWS4PMEXtOfaxcgqRhPzTSQds"
       },
+                   {
+        title: "Dynamic Programming Algorithms - Part1",
+        description: "In this section, we will explore the concept of dynamic programming and how it differs from the divide-and-conquer approach. We will also examine several algorithms within the context of dynamic programming, including the Floyd-Warshall algorithm.",
+        watchUrl: "https://mega.nz/embed/Kqw33SKR#tnqp0ntdFp0yAJ4nxVzQI_Kjow7kEFW-Y7oKInZHpAA",
+        downloadUrl: "https://mega.nz/file/Kqw33SKR#tnqp0ntdFp0yAJ4nxVzQI_Kjow7kEFW-Y7oKInZHpAA"
+      },
   );
 
 COURSES[5].videoSessions.push(
@@ -913,12 +919,7 @@ COURSES[5].videoSessions.push(
         watchUrl: "https://mega.nz/embed/OnhgwQiA#sw1B7w3vUFNbaDzr1AV-UAcQlKeUVxuZZ11mwQEvA_A",
         downloadUrl: "https://mega.nz/file/OnhgwQiA#sw1B7w3vUFNbaDzr1AV-UAcQlKeUVxuZZ11mwQEvA_A"
       },
-                 {
-        title: "Dynamic Programming Algorithms - Part1",
-        description: "In this section, we will explore the concept of dynamic programming and how it differs from the divide-and-conquer approach. We will also examine several algorithms within the context of dynamic programming, including the Floyd-Warshall algorithm.",
-        watchUrl: "https://mega.nz/embed/Kqw33SKR#tnqp0ntdFp0yAJ4nxVzQI_Kjow7kEFW-Y7oKInZHpAA",
-        downloadUrl: "https://mega.nz/file/Kqw33SKR#tnqp0ntdFp0yAJ4nxVzQI_Kjow7kEFW-Y7oKInZHpAA"
-      },
+
   );
 
 COURSES[5].files.push({
